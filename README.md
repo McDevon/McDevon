@@ -1,6 +1,4 @@
-### Hi there 👋
-
-This profile contains hobby projects and learning exercises.
+Hello! This profile contains hobby projects and learning exercises.
 
 Most active is the Taxman game engine project, which I work on in order to
 - Learn new things, such as [WASM](https://webassembly.org/) in browser and in the backend
